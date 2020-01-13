@@ -6,9 +6,6 @@
 <url> <loc>https://wild-flame.github.io/guides/blog/2019/05/15/Day199</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://wild-flame.github.io/guides/blog/2019/05/13/Day197</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://wild-flame.github.io/guides/blog/2019/05/12/Day196</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
-<url> <loc>https://wild-flame.github.io/guides/blog/2019/05/05/Day189</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
-<url> <loc>https://wild-flame.github.io/guides/blog/2019/05/04/Day188</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
-<url> <loc>https://wild-flame.github.io/guides/blog/2019/04/30/Day184</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://wild-flame.github.io/guides/blog/2019/04/24/Day178</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://wild-flame.github.io/guides/blog/2019/04/23/Day177</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://wild-flame.github.io/guides/blog/2019/04/18/Day172</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
@@ -101,8 +98,8 @@
 <url> <loc>https://wild-flame.github.io/guides/blog/2018/12/08/Day41</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://wild-flame.github.io/guides/blog/2018/12/07/Day40</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://wild-flame.github.io/guides/blog/2018/12/06/Day39</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
-<url> <loc>https://wild-flame.github.io/guides/blog/2018/12/05/diary38</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://wild-flame.github.io/guides/blog/2018/12/05/The_fault_in_our_star</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>https://wild-flame.github.io/guides/blog/2018/12/05/diary38</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://wild-flame.github.io/guides/blog/2018/12/04/diary37</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://wild-flame.github.io/guides/blog/2018/12/03/diary36</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://wild-flame.github.io/guides/blog/2018/12/02/diary35</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
@@ -162,6 +159,7 @@
 <url> <loc>https://wild-flame.github.io/guides/docs/mac-os-x-setup-guide/mpv</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/mac-os-x-setup-guide/mpv" /> </url>
 <url> <loc>https://wild-flame.github.io/guides/docs/mac-os-x-setup-guide/nodejs</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/mac-os-x-setup-guide/nodejs" /> </url>
 <url> <loc>https://wild-flame.github.io/guides/docs/mac-os-x-setup-guide/Others</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/mac-os-x-setup-guide/Others" /> </url>
+<url> <loc>https://wild-flame.github.io/guides/docs/mac-os-x-setup-guide/preference_and_settings/launch</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/mac-os-x-setup-guide/preference_and_settings/launch" /> </url>
 <url> <loc>https://wild-flame.github.io/guides/docs/mac-os-x-setup-guide/preference_and_settings/readme</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/mac-os-x-setup-guide/preference_and_settings/readme" /> </url>
 <url> <loc>https://wild-flame.github.io/guides/docs/mac-os-x-setup-guide/python</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/mac-os-x-setup-guide/python" /> </url>
 <url> <loc>https://wild-flame.github.io/guides/docs/mac-os-x-setup-guide/README</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/mac-os-x-setup-guide/README" /> </url>
@@ -179,11 +177,13 @@
 <url> <loc>https://wild-flame.github.io/guides/docs/notes/blockchain/botvs</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/notes/blockchain/botvs" /> </url>
 <url> <loc>https://wild-flame.github.io/guides/docs/notes/blockchain/vanitygenplus</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/notes/blockchain/vanitygenplus" /> </url>
 <url> <loc>https://wild-flame.github.io/guides/docs/notes/coursera</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/notes/coursera" /> </url>
+<url> <loc>https://wild-flame.github.io/guides/docs/notes/crypto &amp; finance</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/notes/crypto &amp; finance" /> </url>
 <url> <loc>https://wild-flame.github.io/guides/docs/notes/ctf</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/notes/ctf" /> </url>
 <url> <loc>https://wild-flame.github.io/guides/docs/notes/design</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/notes/design" /> </url>
 <url> <loc>https://wild-flame.github.io/guides/docs/notes/docker</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/notes/docker" /> </url>
 <url> <loc>https://wild-flame.github.io/guides/docs/notes/games</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/notes/games" /> </url>
 <url> <loc>https://wild-flame.github.io/guides/docs/notes/golang</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/notes/golang" /> </url>
+<url> <loc>https://wild-flame.github.io/guides/docs/notes/HCI</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/notes/HCI" /> </url>
 <url> <loc>https://wild-flame.github.io/guides/docs/notes/hexo</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/notes/hexo" /> </url>
 <url> <loc>https://wild-flame.github.io/guides/docs/notes/ios</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/notes/ios" /> </url>
 <url> <loc>https://wild-flame.github.io/guides/docs/notes/jade_he_ejs</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/notes/jade_he_ejs" /> </url>
@@ -226,4 +226,8 @@
 <url> <loc>https://wild-flame.github.io/guides/docs/notes/web/debug</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/notes/web/debug" /> </url>
 <url> <loc>https://wild-flame.github.io/guides/docs/notes/web/jade_he_ejs</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/notes/web/jade_he_ejs" /> </url>
 <url> <loc>https://wild-flame.github.io/guides/docs/notes/zen</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/notes/zen" /> </url>
+<url> <loc>https://wild-flame.github.io/guides/docs/suicide-guide/about</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/suicide-guide/about" /> </url>
+<url> <loc>https://wild-flame.github.io/guides/docs/suicide-guide/links</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/suicide-guide/links" /> </url>
+<url> <loc>https://wild-flame.github.io/guides/docs/suicide-guide/methods/summary</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/suicide-guide/methods/summary" /> </url>
+<url> <loc>https://wild-flame.github.io/guides/docs/suicide-guide/welcome</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://wild-flame.github.io/guides/docs/suicide-guide/welcome" /> </url>
 </urlset>
